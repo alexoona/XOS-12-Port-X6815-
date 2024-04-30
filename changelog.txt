@@ -1,1 +1,23 @@
+XOS 12 Port ROM V3
+Build Date: 30/04/2024
+- Improved system smoothness
+- New charging animation.
+- AOSP dialer added with call recordint support.
+- Fixed wrong system info in Settings.
 
+XOS 12 Port ROM V2
+Build Date: 27/04/2024
+- System apps updated to XOS 13.
+- Screenshot sound removed.
+- Fixed navigation bar space.
+- Fixed power saving mode.
+- Fixed recents in Power saving mode
+- Added support for AOD by default.
+
+XOS 12 Port ROM V1
+Build Date: 26/04/2024
+- Initial build
+- High Camera brightness fixed in XOS Camera
+- Secure flag has been disabled by default
+- System is R/W by default
+- Lawnchair is used by default
