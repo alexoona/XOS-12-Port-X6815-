@@ -2,6 +2,7 @@ XOS 12 Port ROM V3
 Build Date: 30/04/2024
 - Improved system smoothness
 - New charging animation.
+- New boot animation.
 - AOSP dialer added with call recordint support.
 - Fixed wrong system info in Settings.
 
