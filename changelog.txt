@@ -1,5 +1,6 @@
-XOS 12 Port ROM V3
+XOS 12 Port ROM V4
 Build Date: 03/05/2024
+- Added support for X6815B V225
 - New themes and wallpaper added.
 - Camera zoom and 200MP issue fixed.
 
