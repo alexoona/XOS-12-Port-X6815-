@@ -1,4 +1,9 @@
 XOS 12 Port ROM V3
+Build Date: 03/05/2024
+- New themes and wallpaper added.
+- Camera zoom and 200MP issue fixed.
+
+XOS 12 Port ROM V3
 Build Date: 30/04/2024
 - Improved system smoothness
 - New charging animation.
