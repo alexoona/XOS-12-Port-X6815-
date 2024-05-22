@@ -1,3 +1,10 @@
+XOS 12 Port ROM V5
+Build Date: 11/05/2024
+- Removed lawnchair and replaced it with XOS launcher.
+- XOS 12 charging animation added.
+- Inbuilt TWRP added only for X6815
+- Added support for X6815B v486 vendor
+
 XOS 12 Port ROM V4
 Build Date: 03/05/2024
 - Added support for X6815B V225
